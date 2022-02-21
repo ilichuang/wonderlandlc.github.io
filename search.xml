@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>计算机网络</title>
+    <url>/2021/05/30/Markdown%E8%AF%AD%E6%B3%95/</url>
+    <content><![CDATA[<h1 id="TCP-IP模型"><a href="#TCP-IP模型" class="headerlink" title="TCP/IP模型"></a>TCP/IP模型</h1><p>应用层（应用层，表示层，会话层），传输层，网络层，网络接口层（数据链路层，物理层）。</p>
+<h4 id="物理层"><a href="#物理层" class="headerlink" title="物理层"></a>物理层</h4><p>为上层协议提供一个传输数据的可靠的物理媒体。两个设备（中继器、集线器）。</p>
+<h4 id="数据链路层"><a href="#数据链路层" class="headerlink" title="数据链路层"></a>数据链路层</h4><p>为网络层提供可靠的数据传输，将来自网络层的数据组合成数据块，然后控制帧在物理信道上的传输，包括如何处理传输差错，如何调节发送速率使之与接收方相匹配，以及在两个网络实体之间提供数据链路通路的建立、维持和释放。传送单位（帧）；主要协议（以太网协议）；两个重要设备（网桥、交换机）。</p>
+<font color="blue">我是蓝色的</font>
+
+<h4 id="网络层"><a href="#网络层" class="headerlink" title="网络层"></a>网络层</h4><p>实现两个主机系统之间的数据透明传输，对子网间的数据包进行路由选择（路径选择、路由及逻辑寻址）。基本数据单位（IP数据报）；IP协议（提供不可靠、无连接的传送服务）；ICMP协议，ARP协议，RARP协议；设备（路由器）。</p>
+<font face="楷体">我是楷体字</font>
+
+<font face="宋体" size="5" color="red">我是红色5字号的宋体字</font>
+
+<h4 id="传输层"><a href="#传输层" class="headerlink" title="传输层"></a>传输层</h4><p>负责将上层数据分段并提供端到端的、可靠的或不可靠的传输以及端到端的差错控制和流量控制问题。协议（TCP协议，UDP协议）；重要设备（网关）。</p>
+<h4 id="应用层"><a href="#应用层" class="headerlink" title="应用层"></a>应用层</h4><p>为用户提供所需要的各种协议，负责传送最终形态的数据，直接和用户打交道。数据传输基本单位（报文）；协议（FTP【文件传送协议】，Telnet【远程登录协议】，DNS【域名解析协议】，SMTP【邮件传送协议】，POP3【邮局协议】，HTTP）。</p>
+]]></content>
+      <categories>
+        <category>测试文章</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2021/05/25/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>测试文章</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>newpapername</title>
+    <url>/2021/05/26/newpapername/</url>
+    <content><![CDATA[<h2 id="name"><a href="#name" class="headerlink" title="name"></a>name</h2><h3 id="li-shuxue"><a href="#li-shuxue" class="headerlink" title="li  shuxue"></a>li  shuxue</h3><h4 id="辟邪狂魔"><a href="#辟邪狂魔" class="headerlink" title="辟邪狂魔"></a>辟邪狂魔</h4>]]></content>
+      <categories>
+        <category>测试文章</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>picture</title>
+    <url>/2021/05/26/picture/</url>
+    <content><![CDATA[<p><img src="/2021/05/26/picture/311664.jpg" class title="311664}&lt;&#x2F;p&gt; &lt;p&gt;&lt;img src&#x3D;D:lcblogmyblogsource_postspicture311664.jpg alt&#x3D;1&gt;&lt;&#x2F;p&gt;"></p>]]></content>
+      <categories>
+        <category>测试文章</category>
+      </categories>
+      <tags>
+        <tag>海贼王</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《娑婆诃》</title>
+    <url>/2021/06/27/%E3%80%8A%E5%A8%91%E5%A9%86%E8%AF%83%E3%80%8B/</url>
+    <content><![CDATA[<p><img src="/2021/06/27/%E3%80%8A%E5%A8%91%E5%A9%86%E8%AF%83%E3%80%8B/1.jpg" style="zoom:30%;|float:center;"></p>
+<center style="color:#000000;">1-1</center>
+
+<p><img src="/2021/06/27/%E3%80%8A%E5%A8%91%E5%A9%86%E8%AF%83%E3%80%8B/2.jpg" style="zoom:30%;|float:center;"></p>
+<center style="color:#000000;">1-2</center>
+
+
+<p>“我直到现在还是不明白，我们在地上如同蝼蚁般苦苦挣扎，上帝到底在哪里？他究竟在忙什么？”</p>
+]]></content>
+      <categories>
+        <category>电影</category>
+      </categories>
+      <tags>
+        <tag>恐怖，悬疑，推理</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>书</title>
+    <url>/2021/05/26/%E4%B9%A6/</url>
+    <content><![CDATA[<p><img src="/2021/05/26/%E4%B9%A6/319018.jpg" alt="标签"></p>
+<h2 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h2><h5 id="人类简史"><a href="#人类简史" class="headerlink" title="人类简史"></a>人类简史</h5><h5 id="今日简史"><a href="#今日简史" class="headerlink" title="今日简史"></a>今日简史</h5><p>未来简史</p>
+]]></content>
+      <categories>
+        <category>测试文章</category>
+      </categories>
+      <tags>
+        <tag>学习</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>鬼刀</title>
+    <url>/2021/05/26/%E5%9B%BE%E7%89%87/</url>
+    <content><![CDATA[<h1 id="海琴烟"><a href="#海琴烟" class="headerlink" title="海琴烟"></a>海琴烟</h1><p><img src="/2021/05/26/%E5%9B%BE%E7%89%87/306240.jpg" alt></p>
+]]></content>
+      <categories>
+        <category>测试文章</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>壁纸</title>
+    <url>/2021/05/26/%E5%A3%81%E7%BA%B8/</url>
+    <content><![CDATA[<h1 id="壁纸"><a href="#壁纸" class="headerlink" title="壁纸"></a>壁纸</h1><h3 id="海贼王"><a href="#海贼王" class="headerlink" title="海贼王"></a>海贼王</h3><p>one piece</p>
+<p><img src="/2021/05/26/%E5%A3%81%E7%BA%B8/4.jpg" alt="为啥不显示"></p>
+<h3 id="鬼刀"><a href="#鬼刀" class="headerlink" title="鬼刀"></a>鬼刀</h3><p><img src="/2021/05/26/%E5%A3%81%E7%BA%B8/2.jpg" alt="2"></p>
+<h3 id="其它"><a href="#其它" class="headerlink" title="其它"></a>其它</h3><p><img src="/2021/05/26/%E5%A3%81%E7%BA%B8/3.jpg" alt="3"></p>
+<h3 id="NBA"><a href="#NBA" class="headerlink" title="NBA"></a>NBA</h3><p><img src="/2021/05/26/%E5%A3%81%E7%BA%B8/1.jpg" alt="4"></p>
+]]></content>
+      <categories>
+        <category>测试文章</category>
+      </categories>
+      <tags>
+        <tag>海贼王</tag>
+        <tag>鬼刀</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>治愈系壁纸-第一弹</title>
+    <url>/2021/06/13/%E6%B2%BB%E6%84%88_1/</url>
+    <content><![CDATA[<h4 id="1-知识智慧如果能比得上友情的，我宁愿当个白痴！-——《海绵宝宝》"><a href="#1-知识智慧如果能比得上友情的，我宁愿当个白痴！-——《海绵宝宝》" class="headerlink" title="1.知识智慧如果能比得上友情的，我宁愿当个白痴！  ——《海绵宝宝》"></a>1.知识智慧如果能比得上友情的，我宁愿当个白痴！  ——《海绵宝宝》</h4><p><img src="/2021/06/13/%E6%B2%BB%E6%84%88_1/2.jpeg" style="zoom:30%;|float:center;"></p>
+<center style="color:#000000;">1-1</center>
+
+
+<p><img src="/2021/06/13/%E6%B2%BB%E6%84%88_1/3.jpeg" style="zoom:30%;|float:center;"></p>
+<center style="color:#000000;">1-2</center>
+<img src="/2021/06/13/%E6%B2%BB%E6%84%88_1/4.jpeg" style="zoom:30%;|float:center;">
+<center style="color:#000000;">1-3</center>
+<img src="/2021/06/13/%E6%B2%BB%E6%84%88_1/5.jpeg" style="zoom:30%;|float:center;">
+<center style="color:#000000;">1-4</center>
+
+
+<p><img src="/2021/06/13/%E6%B2%BB%E6%84%88_1/8.jpeg" style="zoom:30%;|float:center;"></p>
+<center style="color:#000000;">1-5</center>
+<img src="/2021/06/13/%E6%B2%BB%E6%84%88_1/9.jpeg" style="zoom:30%;|float:center;">
+<center style="color:#000000;">1-6</center>
+<img src="/2021/06/13/%E6%B2%BB%E6%84%88_1/10.jpeg" style="zoom:30%;|float:center;">
+<center style="color:#000000;">1-7</center>
+<img src="/2021/06/13/%E6%B2%BB%E6%84%88_1/11.jpeg" style="zoom:30%;|float:center;">
+<center style="color:#000000;">1-8</center>
+<img src="/2021/06/13/%E6%B2%BB%E6%84%88_1/12.jpeg" style="zoom:30%;|float:center;">
+<center style="color:#000000;">1-9</center>
+<img src="/2021/06/13/%E6%B2%BB%E6%84%88_1/13.jpeg" style="zoom:30%;|float:center;">
+<center style="color:#000000;">1-10</center>
+<img src="/2021/06/13/%E6%B2%BB%E6%84%88_1/14.jpeg" style="zoom:30%;|float:center;">
+<center style="color:#000000;">1-11</center>
+<img src="/2021/06/13/%E6%B2%BB%E6%84%88_1/15.jpeg" style="zoom:30%;|float:center;">
+<center style="color:#000000;">1-12</center>
+<img src="/2021/06/13/%E6%B2%BB%E6%84%88_1/16.jpeg" style="zoom:30%;|float:center;">
+<center style="color:#000000;">1-13</center>
+<img src="/2021/06/13/%E6%B2%BB%E6%84%88_1/17.jpeg" style="zoom:30%;|float:center;">
+<center style="color:#000000;">1-14</center>
+<img src="/2021/06/13/%E6%B2%BB%E6%84%88_1/18.jpeg" style="zoom:30%;|float:center;">
+<center style="color:#000000;">1-15</center>
+<img src="/2021/06/13/%E6%B2%BB%E6%84%88_1/19.jpeg" style="zoom:30%;|float:center;">
+<center style="color:#000000;">1-16</center>
+<img src="/2021/06/13/%E6%B2%BB%E6%84%88_1/20.jpeg" style="zoom:30%;|float:center;">
+<center style="color:#000000;">1-17</center>
+<img src="/2021/06/13/%E6%B2%BB%E6%84%88_1/21.jpeg" style="zoom:30%;|float:center;">
+<center style="color:#000000;">1-18</center>
+<img src="/2021/06/13/%E6%B2%BB%E6%84%88_1/22.jpeg" style="zoom:30%;|float:center;">
+<center style="color:#000000;">1-19</center>
+<img src="/2021/06/13/%E6%B2%BB%E6%84%88_1/23.jpeg" style="zoom:30%;|float:center;">
+<center style="color:#000000;">1-20</center>
+<img src="/2021/06/13/%E6%B2%BB%E6%84%88_1/24.jpeg" style="zoom:30%;|float:center;">
+<center style="color:#000000;">1-21</center>
+<img src="/2021/06/13/%E6%B2%BB%E6%84%88_1/25.jpeg" style="zoom:30%;|float:center;">
+<center style="color:#000000;">1-22</center>
+
+<p><img src="/2021/06/13/%E6%B2%BB%E6%84%88_1/26.jpg" style="zoom:30%;|float:center;"></p>
+<center style="color:#000000;">1-23</center>]]></content>
+      <categories>
+        <category>smile</category>
+      </categories>
+      <tags>
+        <tag>手机壁纸</tag>
+        <tag>治愈</tag>
+      </tags>
+  </entry>
+</search>
